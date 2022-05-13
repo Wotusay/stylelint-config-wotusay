@@ -1,8 +1,36 @@
 {
-  "name": "stylelint-config-wotusay",
-  "version": "1.0.0",
-  "description": "Stylint options from wotusay",
-  "main": "index.js",
-  "author": "Wotusay",
-  "license": "MIT"
+    "name": "stylelint-config-wotusay",
+    "version": "1.0.0",
+    "description": "Styleint options from wotusay",
+    "main": "index.js",
+    "author": "Wotusay",
+    "license": "MIT",
+    "homepage": "https://github.com/Wotusay/stylelint-config-wotusay#readme",
+    "keywords": [
+        "javascript",
+        "ecmascript",
+        "stylelint",
+        "lint",
+        "config",
+        "scss",
+        "css"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Wotusay/stylelint-config-wotusay"
+    },
+    "devDependencies": {
+        "prettier": "^2.4.1",
+        "prettier-stylelint": "^0.4.2",
+        "stylelint": "^14.8.0",
+        "stylelint-config-standard": "^25.0.0",
+        "stylelint-scss": "^4.2.0"
+    },
+    "peerDependencies": {
+        "prettier": "^2.4.1",
+        "prettier-stylelint": "^0.4.2",
+        "stylelint": "^14.8.0",
+        "stylelint-config-standard": "^25.0.0",
+        "stylelint-scss": "^4.2.0"
+    }
 }
