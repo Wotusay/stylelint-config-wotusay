@@ -1,0 +1,8 @@
+{
+  "name": "stylelint-config-wotusay",
+  "version": "1.0.0",
+  "description": "Stylint options from wotusay",
+  "main": "index.js",
+  "author": "Wotusay",
+  "license": "MIT"
+}
